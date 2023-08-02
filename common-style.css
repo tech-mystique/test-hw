@@ -1,0 +1,64 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-color-body {
+    background-color: rgb(211, 179, 179);
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.bg-color {
+    background-color: rgb(152, 139, 148);
+}
+
+.main {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.jumbotron-bg {
+    background-color: rgb(231, 205, 205);
+}
+
+.col-bg {
+   background-color: rgb(231, 205, 205);
+}
+
+
+.card-link {
+    color: rgba(49, 13, 13, 0.432);
+}
+
+.nav-link {
+    color: brown;
+}
+
+.nav-link2 {
+    color: rgb(70, 29, 29);
+}
+
+.h1-menu {
+    padding: 0.5%;
+}
+
+.menu-bg {
+    background-color: rgb(231, 205, 205);
+}
+
+.card-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.h3-title {
+    padding: 0.5%;
+}
+
+.card1 {
+    display: flex;
+    justify-content: center;
+}
